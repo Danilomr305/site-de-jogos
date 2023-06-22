@@ -160,3 +160,23 @@ a {
     background: #999;
     transform: rotate(315deg);
 }
+
+menu {
+    background-color: #333;
+}
+
+menu > #esquerda {
+   background: aqua;
+   position: fixed;
+}
+
+menu > #direita {
+    background: red;
+    position: fixed;
+    margin-left: 600px;
+ }
+
+menu > h1 {
+    position: fixed;
+    margin-left: 200px;
+}
