@@ -72,6 +72,8 @@ a {
 
 .search.active {
     width: 50px;
+    position: fixed;
+    display: flex;
 }
 
 .search .icon {
