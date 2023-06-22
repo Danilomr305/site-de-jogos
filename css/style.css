@@ -132,7 +132,7 @@ a {
 
 .clear {
     position: absolute;
-    top: 50%;
+    top: 40%;
     transform: translate(-50%);
     height: 15px;
     width: 15px;
