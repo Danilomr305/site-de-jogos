@@ -62,7 +62,7 @@ a {
     margin-left: 1220px;
     top: 20px;
     height: 50px;
-    width: 60px;
+    width: 270px;
     background: #fff;
     border-radius: 60px;
     transition: 0.5s;
@@ -71,7 +71,7 @@ a {
 }
 
 .search.active {
-    width: 270px;
+    width: 50px;
 }
 
 .search .icon {
@@ -122,23 +122,23 @@ a {
 
 .search .input input {
     position: absolute;
-    top: 5px;
-    height: 70%;
+    top: 7px;
+    height: 60%;
     width: 60%;
     border: none;
     outline: none;
     font-size: 1em;
-    padding: 0px 0;
 }
 
 .clear {
     position: absolute;
-    top: 15px;
+    top: 50%;
     transform: translate(-50%);
     height: 15px;
     width: 15px;
     right: 15px;
     cursor: pointer;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
