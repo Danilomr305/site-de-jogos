@@ -62,7 +62,7 @@ a {
     margin-left: 1220px;
     top: 20px;
     height: 50px;
-    width: 270px;
+    width: 280px;
     background: #fff;
     border-radius: 60px;
     transition: 0.5s;
@@ -71,7 +71,7 @@ a {
 }
 
 .search.active {
-    width: 360px;
+    width: 50px;
 }
 
 .search .icon {
@@ -92,7 +92,7 @@ a {
 
 .search .icon::before {
     content: '';
-    position: fixed;
+    position: absolute;
     height: 15px;
     width: 15px;
     border: 3px solid #287dfc;
@@ -102,7 +102,7 @@ a {
 
 .search .icon::after {
     content: '';
-    position: fixed;
+    position: flex;
     height: 12px;
     width: 3px;
     background: #287dfc;
@@ -122,7 +122,7 @@ a {
 
 .search .input input {
     position: absolute;
-    top: 7px;
+    top: 9px;
     height: 60%;
     width: 60%;
     border: none;
