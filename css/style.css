@@ -170,12 +170,13 @@ menu {
 menu > #esquerda {
    background-color: aqua;
    position: fixed;
-   top: 20pc;
+   top: 9pc;
 }
 
 menu > #direita {
     background-color: aqua;
     margin-left: 1130px;
+    top: 9pc;
 }
 menu > h1 {
     position: fixed;
