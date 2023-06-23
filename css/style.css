@@ -1,6 +1,6 @@
 body {
     height: 2000px;
-    padding: 110px;
+    padding: 100px;
 }
 
 header > img {
@@ -20,7 +20,7 @@ header > img {
     position: fixed;
     top: 0px;
     left: 0px;
-    height: 100px;
+    height: 90px;
     width: 100%;
     background-color: #333;
 }
@@ -173,7 +173,7 @@ menu {
 menu > #esquerda {
    background-color: rgb(232, 248, 6);
    position: fixed;
-   top: 9pc;
+   top: 8.5pc;
    border-radius: 6px;
 }
 
@@ -181,13 +181,13 @@ menu > #direita {
     background-color: rgb(232, 248, 6);
     position: fixed;
     margin-left: 910px;
-    top: 9pc;
+    top: 8.5pc;
     border-radius: 6px;
 }
 menu > h1 {
     position: fixed;
     margin-left: 200px;
     color: azure;
-    top: 7.5pc;
+    top: 7pc;
     font-size: 2.6em;
 }
