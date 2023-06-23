@@ -163,6 +163,7 @@ a {
 
 menu {
     background-color: #333;
+    position: fixed;
     height: 70px;
     width: 1000px;
     margin-left: 150px;
