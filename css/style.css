@@ -1,6 +1,6 @@
 body {
     height: 2000px;
-    padding: 90px;
+    padding: 110px;
 }
 
 header > img {
@@ -163,19 +163,19 @@ a {
 
 menu {
     background-color: #333;
+    height: 70px;
+    
 }
 
 menu > #esquerda {
-   background: aqua;
+   background-color: aqua;
    position: fixed;
 }
 
 menu > #direita {
-    background: red;
-    position: fixed;
-    margin-left: 600px;
- }
-
+    background-color: aqua;
+    margin-left: 1130px;
+}
 menu > h1 {
     position: fixed;
     margin-left: 200px;
