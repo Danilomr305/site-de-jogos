@@ -170,6 +170,7 @@ menu {
 menu > #esquerda {
    background-color: aqua;
    position: fixed;
+   top: 20pc;
 }
 
 menu > #direita {
