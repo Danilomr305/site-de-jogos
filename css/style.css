@@ -1,6 +1,7 @@
 body {
     height: 2000px;
     padding: 90px;
+    background-color: rgb(255, 226, 178);
 }
 
 header > img {
@@ -208,13 +209,37 @@ picture > p {
     font-size: 1.1em;
     margin-top: 11.5pc;
     margin-left: 12.2pc;
+    font-weight: bolder;
 }
 
 .sonic {
-    position: fixed;
     margin-left: 19pc;
 }
 
 .soni {
-    margin-left: 1.2;
+    margin-left: 20pc;
+}
+
+.gumball {
+    margin-left: 26pc;
+}
+
+.gumbal {
+    margin-left: 26pc;
+}
+
+.bem {
+    margin-left: 33pc;
+}
+
+.be {
+    margin-left: 33.3pc;
+}
+
+.pikachu {
+    margin-left: 40pc;
+}
+
+.pikach {
+    margin-left: 40.3pc;
 }
