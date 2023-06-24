@@ -193,3 +193,28 @@ menu > h1 {
     top: 6pc;
     font-size: 2.6em;
 }
+
+picture > img  {
+    position: fixed;
+    height: 70px;
+    width: 70px;
+    margin-top: 7pc;
+    margin-left: 12pc;
+    border-radius: 50%;
+}
+
+picture > p {
+    position: fixed;
+    font-size: 1.1em;
+    margin-top: 11.5pc;
+    margin-left: 12.2pc;
+}
+
+.sonic {
+    position: fixed;
+    margin-left: 19pc;
+}
+
+.soni {
+    margin-left: 1.2;
+}
